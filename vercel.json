@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/kdao.js": {
+      "maxDuration": 10
+    }
+  }
+}
